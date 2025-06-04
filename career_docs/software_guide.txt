@@ -1,0 +1,59 @@
+Role: AI Engineer  
+Skills: Python, TensorFlow, PyTorch, NLP, ML deployment, cloud computing  
+Description: AI Engineers design and deploy machine learning systems. They work with data pipelines, build neural networks, and ensure models perform reliably in production environments. Familiarity with MLOps and cloud infrastructure (AWS, GCP) is vital.
+
+Role: Data Scientist  
+Skills: Python, pandas, scikit-learn, statistics, SQL, data visualization, machine learning  
+Description: Data Scientists uncover patterns in data and build predictive models. They perform statistical analysis, work with large datasets, and communicate insights through visualizations and reports.
+
+Role: Data Analyst  
+Skills: Excel, SQL, Tableau, Power BI, Python (pandas), data visualization  
+Description: Data Analysts interpret structured data to answer business questions. They create dashboards, build reports, and communicate trends or issues to stakeholders.
+
+Role: Machine Learning Engineer  
+Skills: Python, scikit-learn, TensorFlow, ML pipelines, model optimization, Docker  
+Description: ML Engineers build and deploy scalable machine learning models. They focus on model accuracy, performance tuning, and integrating models into applications or APIs.
+
+Role: Frontend Developer  
+Skills: HTML, CSS, JavaScript, React, Responsive Design, Git  
+Description: Frontend Developers create interactive, user-friendly web applications. They work closely with UI/UX designers and backend teams to bring digital experiences to life.
+
+Role: Backend Developer  
+Skills: Python/Node.js/Java, REST APIs, databases (PostgreSQL, MongoDB), authentication, deployment  
+Description: Backend Developers manage server-side logic, APIs, and database integration. They ensure fast, secure, and reliable data flow in web and mobile applications.
+
+Role: Full Stack Developer  
+Skills: HTML, CSS, JavaScript, React, Node.js/Python, SQL/NoSQL, Git  
+Description: Full Stack Developers manage both frontend and backend of web applications. They handle everything from designing user interfaces to deploying servers and managing databases.
+
+Role: DevOps Engineer  
+Skills: CI/CD, Docker, Kubernetes, Jenkins, Terraform, cloud services, scripting  
+Description: DevOps Engineers bridge development and operations by automating deployment pipelines, infrastructure, and monitoring. They ensure system reliability and scalability.
+
+Role: Cloud Engineer  
+Skills: AWS, GCP, Azure, Linux, networking, containers, cloud security  
+Description: Cloud Engineers design, manage, and maintain cloud infrastructure. They help businesses migrate services to the cloud, monitor cloud usage, and optimize performance and cost.
+
+Role: Cybersecurity Analyst  
+Skills: Networking, firewalls, ethical hacking, threat analysis, SIEM tools, risk assessment  
+Description: Cybersecurity Analysts protect digital systems from cyber threats. They monitor suspicious activity, perform vulnerability assessments, and ensure compliance with security standards.
+
+Role: Business Analyst  
+Skills: Requirements gathering, stakeholder management, data analysis, SQL, communication  
+Description: Business Analysts understand business needs and translate them into technical solutions. They act as a bridge between the technical team and business stakeholders.
+
+Role: Product Manager  
+Skills: Product strategy, user research, agile methodology, roadmap planning, stakeholder communication  
+Description: Product Managers lead product development from concept to delivery. They prioritize features, coordinate teams, and ensure the product meets user needs and business goals.
+
+Role: UI/UX Designer  
+Skills: Figma, Adobe XD, user research, wireframing, prototyping, usability testing  
+Description: UI/UX Designers craft intuitive digital experiences. They focus on user behavior, interface design, and making applications visually appealing and easy to use.
+
+Role: NLP Engineer  
+Skills: Python, spaCy, Hugging Face Transformers, NLTK, BERT/GPT, text preprocessing  
+Description: NLP Engineers specialize in language-related AI tasks. They build applications like chatbots, sentiment analysis tools, and document summarization systems using modern language models.
+
+Role: AI Application Engineer  
+Skills: LangChain, Streamlit, Python, APIs, LLMs, vector databases (ChromaDB), deployment  
+Description: AI Application Engineers build tools powered by large language models. They integrate AI into web apps, handle vector-based search using ChromaDB, and create intelligent user interfaces.
